@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+Sitemap: https://avtovykup-34.ru/sitemap.xml
+
+User-agent: Yandex
+Disallow: 
+Host: https://avtovykup-34.ru/

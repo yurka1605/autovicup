@@ -1,0 +1,20 @@
+{
+    "question-answer-accordion": [
+        {
+            "head": "Вопрос 1",
+            "text": "<p>Nam enim risus, molestie et, porta ac, aliquam ac, risus.Quisque lobortis.Phasellus pellentesque purus in massa.</p>"
+        },
+        {
+            "head": "Вопрос 2",
+            "text": "<p>Nam enim risus, molestie et, porta ac, aliquam ac, risus.Quisque lobortis.Phasellus pellentesque purus in massa.</p>"
+        },
+        {
+            "head": "Вопрос 3",
+            "text": "<p>Nam enim risus, molestie et, porta ac, aliquam ac, risus.Quisque lobortis.Phasellus pellentesque purus in massa.</p>"
+        },
+        {
+            "head": "Вопрос 4",
+            "text": "<p>Nam enim risus, molestie et, porta ac, aliquam ac, risus.Quisque lobortis.Phasellus pellentesque purus in massa.</p>"
+        }
+    ]
+}
